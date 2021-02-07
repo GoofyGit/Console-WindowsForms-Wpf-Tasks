@@ -1,0 +1,20 @@
+C:\Users\GGPC\Desktop\Task3WindowsForms\Task3WindowsForms\bin\Debug\Task3WindowsForms.exe.config
+C:\Users\GGPC\Desktop\Task3WindowsForms\Task3WindowsForms\bin\Debug\Task3WindowsForms.exe
+C:\Users\GGPC\Desktop\Task3WindowsForms\Task3WindowsForms\bin\Debug\Task3WindowsForms.pdb
+C:\Users\GGPC\Desktop\Task3WindowsForms\Task3WindowsForms\obj\Debug\Task3WindowsForms.csprojAssemblyReference.cache
+C:\Users\GGPC\Desktop\Task3WindowsForms\Task3WindowsForms\obj\Debug\Task3WindowsForms.Form1.resources
+C:\Users\GGPC\Desktop\Task3WindowsForms\Task3WindowsForms\obj\Debug\Task3WindowsForms.Properties.Resources.resources
+C:\Users\GGPC\Desktop\Task3WindowsForms\Task3WindowsForms\obj\Debug\Task3WindowsForms.csproj.GenerateResource.cache
+C:\Users\GGPC\Desktop\Task3WindowsForms\Task3WindowsForms\obj\Debug\Task3WindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\GGPC\Desktop\Task3WindowsForms\Task3WindowsForms\obj\Debug\Task3WindowsForms.exe
+C:\Users\GGPC\Desktop\Task3WindowsForms\Task3WindowsForms\obj\Debug\Task3WindowsForms.pdb
+D:\Class\Gui A1\Jared Ross Final Assigment 1\Task3WindowsForms\Task3WindowsForms\bin\Debug\Task3WindowsForms.exe.config
+D:\Class\Gui A1\Jared Ross Final Assigment 1\Task3WindowsForms\Task3WindowsForms\bin\Debug\Task3WindowsForms.exe
+D:\Class\Gui A1\Jared Ross Final Assigment 1\Task3WindowsForms\Task3WindowsForms\bin\Debug\Task3WindowsForms.pdb
+D:\Class\Gui A1\Jared Ross Final Assigment 1\Task3WindowsForms\Task3WindowsForms\obj\Debug\Task3WindowsForms.csprojAssemblyReference.cache
+D:\Class\Gui A1\Jared Ross Final Assigment 1\Task3WindowsForms\Task3WindowsForms\obj\Debug\Task3WindowsForms.Form1.resources
+D:\Class\Gui A1\Jared Ross Final Assigment 1\Task3WindowsForms\Task3WindowsForms\obj\Debug\Task3WindowsForms.Properties.Resources.resources
+D:\Class\Gui A1\Jared Ross Final Assigment 1\Task3WindowsForms\Task3WindowsForms\obj\Debug\Task3WindowsForms.csproj.GenerateResource.cache
+D:\Class\Gui A1\Jared Ross Final Assigment 1\Task3WindowsForms\Task3WindowsForms\obj\Debug\Task3WindowsForms.csproj.CoreCompileInputs.cache
+D:\Class\Gui A1\Jared Ross Final Assigment 1\Task3WindowsForms\Task3WindowsForms\obj\Debug\Task3WindowsForms.exe
+D:\Class\Gui A1\Jared Ross Final Assigment 1\Task3WindowsForms\Task3WindowsForms\obj\Debug\Task3WindowsForms.pdb

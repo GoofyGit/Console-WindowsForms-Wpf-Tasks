@@ -1,0 +1,28 @@
+﻿<Window x:Class="Task3Wpf.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Task3Wpf"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="262" Width="248.476"
+        Loaded="Initialize">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            
+        </Grid.RowDefinitions>
+
+        
+        <Label x:Name="label1"  Grid.Row="0" Grid.Column="1" Content=""></Label>
+        <Label x:Name="label2"  Grid.Row="2" Grid.Column="1" Content=""></Label>
+        <TextBox x:Name="InputB" Text="{Binding Path=InputTextValue}" Grid.Row="1" TextChanged="InputB_TextChanged"/>
+
+    </Grid>
+</Window>
